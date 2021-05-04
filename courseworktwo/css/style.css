@@ -1,5 +1,6 @@
 html{
   font-family: 'Oswald', sans-serif;
+/* changes the font of the website, also is included in the header of every page. */
     color: darkslategrey;
     padding:10px;}
 .menu{text-align: center;
@@ -9,8 +10,9 @@ padding: 15px;
   margin: 0 23px;
 margin-bottom:20px;
 }
- /* this makes the menu that I have made align to the middle.*/
+ /* this makes the menu that I have made align to the middle. also changes the colour of the text for the whole page. adds a background to the text too.*/
 body{background-image: linear-gradient(yellow, black); background-repeat: no-repeat;}
+/* a gradient effect as the background of my website, based off of the bands aesthetics right now*/
 .image_home{text-align: center;
 padding: 15px; }
 
