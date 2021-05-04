@@ -1,0 +1,65 @@
+html{
+  font-family: 'Oswald', sans-serif;
+    color: darkslategrey;
+    padding:10px;}
+.menu{text-align: center;
+background: rgba(255, 255, 255, 0.8);
+  padding: 12px;
+padding: 15px;
+  margin: 0 23px;
+margin-bottom:20px;
+}
+ /* this makes the menu that I have made align to the middle.*/
+body{background-image: linear-gradient(yellow, black); background-repeat: no-repeat;}
+.image_home{text-align: center;
+padding: 15px; }
+
+.About{
+  background: rgba(255, 255, 255, 0.5);
+  padding: 12px;
+padding: 15px;
+  margin: 0 23px;
+margin-bottom:20px;
+text-align: left;
+}
+.spotify{
+  background: rgba(255, 255, 255, 0.5);
+  padding: 12px;
+padding: 15px;
+  margin: 0 23px;
+margin-bottom:20px;
+text-align: left;
+}
+#quote{text-align: center;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 12px;
+padding: 15px;
+  margin: 0 23px;
+margin-bottom:20px;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.album{
+  background: rgba(255, 255, 255, 0.5);
+  padding: 12px;
+padding: 15px;
+  margin: 0 23px;
+margin-bottom:20px;
+text-align: left;
+}
+.image{text-align: center;
+}
+.merch{
+  background: rgba(255, 255, 255, 0.5);
+  padding: 12px;
+padding: 15px;
+  margin: 0 23px;
+margin-bottom:20px;
+text-align: left;
+}
+.video{
+  padding: 12px;
+padding: 15px;
+}
